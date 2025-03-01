@@ -1,0 +1,10 @@
+    # End table, then embed the JavaScript
+    table_html += "</tbody></table>\n" \
+"<script>\n" \
+"document.addEventListener('DOMContentLoaded', function() {\n" \
+"  var selectedRow = document.querySelector('tr[selected-line=\"true\"]');\n" \
+"  if (selectedRow) {\n" \
+"    selectedRow.scrollIntoView({block: 'center', inline: 'center', behavior: 'auto'});\n" \
+"  }\n" \
+"});\n" \
+"</script>\n"
