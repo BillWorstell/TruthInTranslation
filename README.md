@@ -1,6 +1,6 @@
 # Truth In Translation
 
-**(Pre‐Release / Private Repository)**
+**(Pre‐Release / Public Repository)**
 
 Welcome to **Truth In Translation**, a bilingual folklore reader and AI‐assisted language learning application. This project focuses on **Akan–English** folklore texts, leveraging both **AI** and **human translations** to ensure cultural fidelity and transparent comparison. Our goal is to preserve **oral traditions** while providing educational and linguistic insights for learners, educators, and researchers.
 
