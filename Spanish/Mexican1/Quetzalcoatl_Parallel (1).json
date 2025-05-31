@@ -1,0 +1,37 @@
+[
+    {
+        "SPANISH": "Hace cientos de años que en hermoso día apareció en el valle de Mexico un hombre blanco con cabello y barba negra...",
+        "LITERAL ENGLISH": "Hundreds of years ago, on a beautiful day, a white man with black hair and beard appeared in the Valley of Mexico...",
+        "FAITHFUL ENGLISH": "Long ago, on a radiant day, a white man with dark hair and beard appeared in the Valley of Mexico...",
+        "CULTURAL CONTEXT": "The man described likely reflects mythic interpretations of Quetzalcoatl, blending indigenous and later Spanish descriptions.",
+        "TRANSLATION CLARIFICATION": "Faithful version softens and naturalizes 'hombre blanco' as mythic figure rather than literal man."
+    },
+    {
+        "SPANISH": "Pronto se reunió a él un gran número de gente que crecía según el día avanzaba. Era Quetzalcoatl...",
+        "LITERAL ENGLISH": "Soon many people gathered around him as the day went on. He was Quetzalcoatl...",
+        "FAITHFUL ENGLISH": "Soon crowds gathered, drawn to him as the day passed. This was Quetzalcoatl...",
+        "CULTURAL CONTEXT": "Quetzalcoatl became revered as 'Dios Blanco', associated with moral teachings and peaceful leadership.",
+        "TRANSLATION CLARIFICATION": "Faithful version adds 'drawn to him' to clarify imagery of gathering."
+    },
+    {
+        "SPANISH": "Durante su permanencia allí hizo construir casas de oración y penitencia que consistían de grandes salones...",
+        "LITERAL ENGLISH": "During his stay he built houses of prayer and penitence consisting of large halls...",
+        "FAITHFUL ENGLISH": "While there, he built great prayer halls and places for penitence...",
+        "CULTURAL CONTEXT": "Quetzalcoatl promoted a moral code focused on prayer, confession, and rejection of human sacrifice.",
+        "TRANSLATION CLARIFICATION": "Faithful version smooths 'houses of prayer and penitence' into natural phrasing."
+    },
+    {
+        "SPANISH": "Fue un rey sacerdote muy sabio; enseñó a muchos otros reyes a gobernar...",
+        "LITERAL ENGLISH": "He was a very wise king-priest; he taught many other kings to rule...",
+        "FAITHFUL ENGLISH": "He was a wise priest-king, instructing many rulers in wisdom and discretion...",
+        "CULTURAL CONTEXT": "Depicts Quetzalcoatl's role as a moral and political teacher across generations.",
+        "TRANSLATION CLARIFICATION": "Faithful version rearranges 'king-priest' into natural English order 'priest-king'."
+    },
+    {
+        "SPANISH": "Pronto se confundió con el planeta Venus y se convirtió en el dios del viento.",
+        "LITERAL ENGLISH": "Soon he was confused with the planet Venus and became the god of the wind.",
+        "FAITHFUL ENGLISH": "In time, he merged with the planet Venus and became the god of the wind.",
+        "CULTURAL CONTEXT": "Quetzalcoatl was mythologically linked to Venus as both a morning star and divine presence.",
+        "TRANSLATION CLARIFICATION": "'Merged with' better conveys mythic transformation than 'confused with'."
+    }
+]
